@@ -24,7 +24,3 @@
 `java` · `kotlin` · `python` · `typescript` · `spring` · `temporal` · `kafka` · `kubernetes` · `aws` · `mysql` · `dynamodb`
 
 <br>
-
-<br>
-
-<sub>A soft spot for well-designed state machines.</sub>

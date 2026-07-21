@@ -1,0 +1,9 @@
+<svg width="820" height="240" viewBox="0 0 820 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="240" rx="8" fill="#0d1117"></rect>
+  <rect x="0.5" y="0.5" width="819" height="239" rx="7.5" fill="none" stroke="#21262d"></rect>
+  <text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8a33d">nikhiln64 · atlanta, ga</text>
+  <text x="48" y="104" font-family="-apple-system, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e8e6e1" letter-spacing="-0.5">Staff engineer at Turo. I build marketplace and</text>
+  <text x="48" y="142" font-family="-apple-system, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e8e6e1" letter-spacing="-0.5">platform systems that move real money.</text>
+  <text x="48" y="182" font-family="-apple-system, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">Ten years across Turo, Morgan Stanley, and OneTrust: pricing engines, payment compliance,</text>
+  <text x="48" y="206" font-family="-apple-system, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">international launches, and workflow orchestration.</text>
+</svg>

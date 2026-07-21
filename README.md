@@ -1,6 +1,11 @@
-<img src="assets/header.png" alt="Staff engineer at Turo, founding engineer at Otzzi. I build marketplace and platform systems that move real money." width="100%">
+`nikhiln64` · Atlanta, Georgia USA
 
-<br>
+## Staff engineer at Turo, founding engineer at Otzzi. I build marketplace and platform systems that move real money.
+
+By day I work on host economics, tax compliance, and international market launches at Turo.
+On the side I am building Otzzi from zero: booking, payments, expert onboarding, and platform infrastructure for a sports and active lifestyle marketplace.
+In between, I contribute to open source.
+A soft spot for well-designed state machines.
 
 <!--STATS:START-->
 | **10 yrs** | **15** | **7** | **5** |

@@ -1,0 +1,23 @@
+<svg width="480" height="340" viewBox="0 0 480 340" xmlns="http://www.w3.org/2000/svg" font-family="&#39;IBM Plex Sans&#39;, Helvetica, Arial, sans-serif">
+<defs></defs>
+<rect width="480" height="340" rx="10" fill="#161b22"></rect>
+<rect x="0.5" y="0.5" width="479" height="339" rx="9.5" fill="none" stroke="#21262d"></rect>
+<text x="28" y="36" font-size="14" font-weight="600" fill="#e8a33d">Nikhil&#39;s GitHub Stats</text>
+<g transform="translate(28,40)">
+<polygon points="212,55 307,150 212,245 117,150" fill="none" stroke="#21262d"></polygon>
+<polygon points="212,78.75 283.25,150 212,221.25 140.75,150" fill="none" stroke="#21262d"></polygon>
+<polygon points="212,102.5 259.5,150 212,197.5 164.5,150" fill="none" stroke="#21262d"></polygon>
+<polygon points="212,126.25 235.75,150 212,173.75 188.25,150" fill="none" stroke="#21262d"></polygon>
+<line x1="212" y1="55" x2="212" y2="245" stroke="#21262d"></line>
+<line x1="117" y1="150" x2="307" y2="150" stroke="#21262d"></line>
+<polygon points="212,70.2 269,150 212,195.6 164.5,150" fill="#e8a33d38" stroke="#e8a33d" stroke-width="1.5"></polygon>
+<text x="212" y="34" text-anchor="middle" font-size="13" font-weight="700" fill="#e8e6e1" font-family="&#39;JetBrains Mono&#39;, ui-monospace, Menlo, monospace">2.1k</text>
+<text x="212" y="48" text-anchor="middle" font-size="11" fill="#6b7280">commits</text>
+<text x="315" y="146" font-size="13" font-weight="700" fill="#e8e6e1" font-family="&#39;JetBrains Mono&#39;, ui-monospace, Menlo, monospace">15</text>
+<text x="315" y="160" font-size="11" fill="#6b7280">PRs</text>
+<text x="212" y="261" text-anchor="middle" font-size="13" font-weight="700" fill="#e8e6e1" font-family="&#39;JetBrains Mono&#39;, ui-monospace, Menlo, monospace">12</text>
+<text x="212" y="275" text-anchor="middle" font-size="11" fill="#6b7280">issues</text>
+<text x="109" y="146" text-anchor="end" font-size="13" font-weight="700" fill="#e8e6e1" font-family="&#39;JetBrains Mono&#39;, ui-monospace, Menlo, monospace">6</text>
+<text x="109" y="160" text-anchor="end" font-size="11" fill="#6b7280">contributed to</text>
+</g>
+</svg>

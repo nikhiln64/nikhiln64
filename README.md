@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Staff engineer at Turo. I build marketplace and platform systems that move real money." width="100%">
+<img src="assets/header.svg" alt="Staff engineer at Turo, founding engineer at Otzzi. I build marketplace and platform systems that move real money." width="100%">
 
 <br>
 
@@ -18,8 +18,12 @@
 
 ### Stack
 
-`java` · `kotlin` · `python` · `typescript` · `spring` · `temporal` · `kafka` · `react` · `kubernetes` · `aws` · `mysql` · `dynamodb`
+`java` · `kotlin` · `python` · `typescript` · `spring` · `temporal` · `kafka` · `kubernetes` · `aws` · `mysql` · `dynamodb`
 
 <br>
 
-<sub>Java and Kotlin on the backend, Temporal for anything async, and a soft spot for well-designed state machines.</sub>
+<img src="assets/stats-radar.svg" alt="GitHub stats radar: commits, PRs, issues, contributed-to" width="480">
+
+<br>
+
+<sub>A soft spot for well-designed state machines.</sub>

@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 3h` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 9h` |
-| `conductor-oss/conductor` | [Guard pruneExecutions against overflow and non-positive age deleting recent executions](https://github.com/conductor-oss/conductor/pull/1360) | 🟣 `merged · 11h` |
-| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 12h` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 1h` |
+| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 1h` |
+| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 1h` |
+| `kestra-io/kestra` | [fix(storage): surface a descriptive error when local storage cannot create parent director](https://github.com/kestra-io/kestra/pull/17396) | 🟢 `open · 1h` |
 <!--ACTIVITY:END-->
 
 ### Stack

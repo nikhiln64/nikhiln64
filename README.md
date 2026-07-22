@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 4h` |
-| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 5h` |
-| `conductor-oss/conductor` | [Guard pruneExecutions against overflow and non-positive age deleting recent executions](https://github.com/conductor-oss/conductor/pull/1360) | 🟣 `merged · 6h` |
-| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 6h` |
+| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 3h` |
+| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 9h` |
+| `conductor-oss/conductor` | [Guard pruneExecutions against overflow and non-positive age deleting recent executions](https://github.com/conductor-oss/conductor/pull/1360) | 🟣 `merged · 11h` |
+| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 12h` |
 <!--ACTIVITY:END-->
 
 ### Stack

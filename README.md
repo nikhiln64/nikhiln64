@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 2h` |
-| `kestra-io/kestra` | [fix(storage): surface a descriptive error when local storage cannot create parent director](https://github.com/kestra-io/kestra/pull/17396) | 🟣 `merged · 18h` |
-| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 18h` |
-| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 18h` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 7h` |
+| `kestra-io/kestra` | [fix(storage): surface a descriptive error when local storage cannot create parent director](https://github.com/kestra-io/kestra/pull/17396) | 🟣 `merged · 23h` |
+| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 23h` |
+| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 23h` |
 <!--ACTIVITY:END-->
 
 ### Stack

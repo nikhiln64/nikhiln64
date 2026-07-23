@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 7h` |
-| `kestra-io/kestra` | [fix(storage): surface a descriptive error when local storage cannot create parent director](https://github.com/kestra-io/kestra/pull/17396) | 🟣 `merged · 23h` |
-| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 23h` |
-| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 23h` |
+| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟢 `open · 1h` |
+| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 1h` |
+| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 1h` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 1h` |
 <!--ACTIVITY:END-->
 
 ### Stack

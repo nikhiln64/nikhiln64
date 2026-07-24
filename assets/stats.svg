@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 92" role="img" aria-label="10 years shipping software, 22 open source PRs, 13 PRs merged, 5 recently active repos">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 92" role="img" aria-label="10 years shipping software, 26 open source PRs, 18 PRs merged, 1 recently active repos">
   <style>
     :root { --muted: #57606a; }
     @media (prefers-color-scheme: dark) { :root { --muted: #8b949e; } }
@@ -13,7 +13,7 @@
   </style>
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e3b341"/><stop offset="1" stop-color="#f78166"/></linearGradient></defs>
   <g><text class="n" x="2" y="46">10</text><text class="l" x="2" y="76">years shipping software</text></g>
-  <g><text class="n" x="260" y="46">22</text><text class="l" x="260" y="76">open source PRs</text></g>
-  <g><text class="n" x="520" y="46">13</text><text class="l" x="520" y="76">PRs merged</text></g>
-  <g><text class="n" x="740" y="46">5</text><text class="l" x="740" y="76">recently active repos</text></g>
+  <g><text class="n" x="260" y="46">26</text><text class="l" x="260" y="76">open source PRs</text></g>
+  <g><text class="n" x="520" y="46">18</text><text class="l" x="520" y="76">PRs merged</text></g>
+  <g><text class="n" x="740" y="46">1</text><text class="l" x="740" y="76">recently active repos</text></g>
 </svg>

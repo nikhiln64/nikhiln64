@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `nikhiln64/heartbeat-log` | [Election module: quorum votes grant the epochs, safely (H10-11.5)](https://github.com/nikhiln64/heartbeat-log/pull/6) | 🟢 `open · 5h` |
-| `nikhiln64/heartbeat-log` | [The money commit: epoch-boundary truncation - same seed, red goes green (H8-10)](https://github.com/nikhiln64/heartbeat-log/pull/5) | 🟣 `merged · 5h` |
-| `nikhiln64/heartbeat-log` | [The red test: KIP-101 data loss, reproduced deterministically (H7-8)](https://github.com/nikhiln64/heartbeat-log/pull/4) | 🟣 `merged · 7h` |
-| `nikhiln64/heartbeat-log` | [Failover machinery: crash/recover, in-sync roster, min-in-sync floor, buggy truncation (H5](https://github.com/nikhiln64/heartbeat-log/pull/3) | 🟣 `merged · 7h` |
+| `nikhiln64/heartbeat-log` | [Interactive experiment: toggle, time scrubber, autoplay](https://github.com/nikhiln64/heartbeat-log/pull/10) | 🟣 `merged · 1h` |
+| `nikhiln64/heartbeat-log` | [KIP-101 mapping doc: every Kafka concept, mapped and tick-checked](https://github.com/nikhiln64/heartbeat-log/pull/8) | 🟣 `merged · 2h` |
+| `nikhiln64/heartbeat-log` | [Experiment visualizer: ./gradlew visualize renders the red/green runs side by side](https://github.com/nikhiln64/heartbeat-log/pull/9) | 🟣 `merged · 2h` |
+| `nikhiln64/heartbeat-log` | [Schedule fuzzer + walkthrough: the final two blocks (H11.5-14)](https://github.com/nikhiln64/heartbeat-log/pull/7) | 🟣 `merged · 2h` |
 <!--ACTIVITY:END-->
 
 ### Stack

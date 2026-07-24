@@ -36,37 +36,19 @@ A soft spot for well-designed state machines.
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- Email Section -->
-    <td align="left" style="padding-right: 32px;">
-      <a href="mailto:nikhiln64@gmail.com" style="text-decoration: none; color: #1f2937;">
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-          <tr>
-            <td style="padding-right: 8px; vertical-align: middle;">
-              <img width="20" height="20" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="My Email" style="display: block;" />
-            </td>
-            <td style="vertical-align: middle; font-weight: 600; font-size: 15px; letter-spacing: 0.3px;">
-              Email
-            </td>
-          </tr>
-        </table>
+    <td align="left" style="padding: 0 40px;">
+      <a href="mailto:nikhiln64@gmail.com">
+        <img width="20" height="20" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="My Email" />
       </a>
+      <div style="margin-top: 8px; font-weight: bold;">Email</div>
     </td>
-     <!-- LinkedIn Section -->
-    <td align="left">
-      <a href="https://www.linkedin.com/in/nikhilbharadwajramashasthri" style="text-decoration: none; color: #1f2937;">
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-          <tr>
-            <td style="padding-right: 8px; vertical-align: middle;">
-              <img width="20" height="20" src="https://github.com/user-attachments/assets/18a2e315-2214-491b-b84b-2cc174327a7d" alt="My Linkedin" style="display: block;" />
-            </td>
-            <td style="vertical-align: middle; font-weight: 600; font-size: 15px; letter-spacing: 0.3px;">
-              LinkedIn
-            </td>
-          </tr>
-        </table>
+    <td align="left" style="padding: 0 40px;">
+      <a href="https://www.linkedin.com/in/nikhilbharadwajramashasthri">
+        <img width="20" height="20" src="https://github.com/user-attachments/assets/18a2e315-2214-491b-b84b-2cc174327a7d" alt="My Linkedin" />
       </a>
+      <div style="margin-top: 8px; font-weight: bold;">Linkedin</div>
     </td>
   </tr>
 </table>

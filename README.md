@@ -53,8 +53,7 @@ A soft spot for well-designed state machines.
         </table>
       </a>
     </td>
-    
-    <!-- LinkedIn Section -->
+     <!-- LinkedIn Section -->
     <td align="left">
       <a href="https://www.linkedin.com/in/nikhilbharadwajramashasthri" style="text-decoration: none; color: #1f2937;">
         <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">

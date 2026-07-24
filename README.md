@@ -40,15 +40,13 @@ A soft spot for well-designed state machines.
   <tr>
     <td align="left" style="padding: 0 40px;">
       <a href="mailto:nikhiln64@gmail.com">
-        <img width="20" height="20" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="My Email" />
+        <img width="30" height="30" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="My Email" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">Email</div>
     </td>
     <td align="left" style="padding: 0 40px;">
       <a href="https://www.linkedin.com/in/nikhilbharadwajramashasthri">
-        <img width="20" height="20" src="https://github.com/user-attachments/assets/18a2e315-2214-491b-b84b-2cc174327a7d" alt="My Linkedin" />
+        <img width="30" height="30" src="https://github.com/user-attachments/assets/18a2e315-2214-491b-b84b-2cc174327a7d" alt="My Linkedin" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">Linkedin</div>
     </td>
   </tr>
 </table>

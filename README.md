@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `nikhiln64/heartbeat-log` | [Interactive experiment: toggle, time scrubber, autoplay](https://github.com/nikhiln64/heartbeat-log/pull/10) | 🟣 `merged · 1h` |
-| `nikhiln64/heartbeat-log` | [KIP-101 mapping doc: every Kafka concept, mapped and tick-checked](https://github.com/nikhiln64/heartbeat-log/pull/8) | 🟣 `merged · 2h` |
-| `nikhiln64/heartbeat-log` | [Experiment visualizer: ./gradlew visualize renders the red/green runs side by side](https://github.com/nikhiln64/heartbeat-log/pull/9) | 🟣 `merged · 2h` |
-| `nikhiln64/heartbeat-log` | [Schedule fuzzer + walkthrough: the final two blocks (H11.5-14)](https://github.com/nikhiln64/heartbeat-log/pull/7) | 🟣 `merged · 2h` |
+| `nikhiln64/heartbeat-log` | [Interactive experiment: toggle, time scrubber, autoplay](https://github.com/nikhiln64/heartbeat-log/pull/10) | 🟣 `merged · 7h` |
+| `nikhiln64/heartbeat-log` | [KIP-101 mapping doc: every Kafka concept, mapped and tick-checked](https://github.com/nikhiln64/heartbeat-log/pull/8) | 🟣 `merged · 8h` |
+| `nikhiln64/heartbeat-log` | [Experiment visualizer: ./gradlew visualize renders the red/green runs side by side](https://github.com/nikhiln64/heartbeat-log/pull/9) | 🟣 `merged · 8h` |
+| `nikhiln64/heartbeat-log` | [Schedule fuzzer + walkthrough: the final two blocks (H11.5-14)](https://github.com/nikhiln64/heartbeat-log/pull/7) | 🟣 `merged · 8h` |
 <!--ACTIVITY:END-->
 
 ### Stack

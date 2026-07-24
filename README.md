@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟢 `open · 1h` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 1h` |
-| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 1h` |
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 1h` |
+| `nikhiln64/heartbeat-log` | [The money commit: epoch-boundary truncation - same seed, red goes green (H8-10)](https://github.com/nikhiln64/heartbeat-log/pull/5) | 🟢 `open · 1h` |
+| `nikhiln64/heartbeat-log` | [The red test: KIP-101 data loss, reproduced deterministically (H7-8)](https://github.com/nikhiln64/heartbeat-log/pull/4) | 🟣 `merged · 1h` |
+| `nikhiln64/heartbeat-log` | [Failover machinery: crash/recover, in-sync roster, min-in-sync floor, buggy truncation (H5](https://github.com/nikhiln64/heartbeat-log/pull/3) | 🟣 `merged · 1h` |
+| `nikhiln64/heartbeat-log` | [Append path: leader log, follower pull chain, high watermark (H3-5)](https://github.com/nikhiln64/heartbeat-log/pull/2) | 🟣 `merged · 1h` |
 <!--ACTIVITY:END-->
 
 ### Stack

@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 2h` |
-| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟢 `open · 2h` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 2h` |
-| `nikhiln64/heartbeat-log` | [Build story as a clickable page; no git commands for reviewers](https://github.com/nikhiln64/heartbeat-log/pull/15) | 🟣 `merged · 4h` |
+| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 8h` |
+| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟢 `open · 8h` |
+| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 8h` |
+| `nikhiln64/heartbeat-log` | [Build story as a clickable page; no git commands for reviewers](https://github.com/nikhiln64/heartbeat-log/pull/15) | 🟣 `merged · 10h` |
 <!--ACTIVITY:END-->
 
 ### Stack

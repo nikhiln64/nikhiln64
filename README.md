@@ -12,8 +12,8 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟢 `open · 6h` |
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 8h` |
+| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟢 `open · 11h` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 13h` |
 | `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 3d` |
 | `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 3d` |
 <!--ACTIVITY:END-->

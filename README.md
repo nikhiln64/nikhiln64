@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/incubator-kie-drools` | [\[incubator-kie-drools-6758\] Register concrete project classloaders as parallel capable](https://github.com/apache/incubator-kie-drools/pull/6809) | 🟣 `merged · 1h` |
-| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟣 `merged · 5h` |
-| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 7h` |
-| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 11h` |
+| `apache/incubator-kie-drools` | [\[incubator-kie-drools-6758\] Register concrete project classloaders as parallel capable](https://github.com/apache/incubator-kie-drools/pull/6809) | 🟣 `merged · 7h` |
+| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟣 `merged · 11h` |
+| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 13h` |
+| `kestra-io/kestra` | [fix(executor): honor parent task logLevel for the subflow creation log](https://github.com/kestra-io/kestra/pull/17398) | 🟢 `open · 16h` |
 <!--ACTIVITY:END-->
 
 ### Stack

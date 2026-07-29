@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 12h` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 12h` |
-| `apache/incubator-kie-drools` | [\[incubator-kie-drools-6758\] Register concrete project classloaders as parallel capable](https://github.com/apache/incubator-kie-drools/pull/6809) | 🟣 `merged · 20h` |
-| `flowable/flowable-engine` | [Add DependsOnDatabaseInitializationDetector so engines wait for database initializers](https://github.com/flowable/flowable-engine/pull/4222) | 🟣 `merged · 1d` |
+| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 1h` |
+| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟢 `open · 1h` |
+| `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟢 `open · 1h` |
+| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 1h` |
 <!--ACTIVITY:END-->
 
 ### Stack

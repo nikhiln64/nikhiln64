@@ -12,9 +12,9 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 1h` |
-| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 16h` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 16h` |
+| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 8h` |
+| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 22h` |
+| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 22h` |
 | `kestra-io/kestra` | [fix(core): bound the plugin documentation cache to stop unbounded heap growth](https://github.com/kestra-io/kestra/pull/17397) | 🟣 `merged · 1d` |
 <!--ACTIVITY:END-->
 

@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟢 `open · 5h` |
-| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 1d` |
-| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟢 `open · 1d` |
-| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 1d` |
+| `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 1h` |
+| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟢 `open · 11h` |
+| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 2d` |
+| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟢 `open · 2d` |
 <!--ACTIVITY:END-->
 
 ### Stack

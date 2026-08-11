@@ -12,9 +12,9 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟢 `open · 1h` |
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 5h` |
-| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 17h` |
+| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟢 `open · 6h` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 11h` |
+| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 23h` |
 | `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 2d` |
 <!--ACTIVITY:END-->
 

@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 8h` |
-| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟢 `open · 8h` |
-| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 8h` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟢 `open · 8h` |
+| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 1h` |
+| `apache/hertzbeat` | [\[bugfix\] Alarm group convergence must not resolve while members are still firing](https://github.com/apache/hertzbeat/pull/4316) | 🟢 `open · 2h` |
+| `openzipkin/zipkin` | [Bound the HTTP collector gzip decompression so a small request cannot exhaust the heap](https://github.com/openzipkin/zipkin/pull/3840) | 🟢 `open · 2h` |
+| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 2h` |
 <!--ACTIVITY:END-->
 
 ### Stack

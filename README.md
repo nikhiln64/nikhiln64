@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟣 `merged · 3h` |
-| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 7h` |
-| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟢 `open · 11h` |
-| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 18h` |
+| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟣 `merged · 9h` |
+| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 13h` |
+| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟢 `open · 17h` |
+| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 1d` |
 <!--ACTIVITY:END-->
 
 ### Stack

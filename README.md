@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 1h` |
-| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 4h` |
-| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟣 `merged · 15h` |
-| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟢 `open · 23h` |
+| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 3h` |
+| `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 4h` |
+| `apache/incubator-seata` | [bugfix: NetUtil filtered lookups bypass the cached default address](https://github.com/apache/incubator-seata/pull/8191) | 🟣 `merged · 21h` |
+| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟢 `open · 1d` |
 <!--ACTIVITY:END-->
 
 ### Stack

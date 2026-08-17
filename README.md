@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/hertzbeat` | [\[bugfix\] Alarm group convergence must not resolve while members are still firing](https://github.com/apache/hertzbeat/pull/4316) | 🟢 `open · 1h` |
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 1h` |
-| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟣 `merged · 6h` |
-| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 13h` |
+| `apache/hertzbeat` | [\[bugfix\] Alarm group convergence must not resolve while members are still firing](https://github.com/apache/hertzbeat/pull/4316) | 🟣 `merged · 1h` |
+| `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 6h` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 6h` |
+| `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟣 `merged · 12h` |
 <!--ACTIVITY:END-->
 
 ### Stack

@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 1h` |
-| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 1h` |
-| `apache/hertzbeat` | [\[bugfix\] Alarm group convergence must not resolve while members are still firing](https://github.com/apache/hertzbeat/pull/4316) | 🟣 `merged · 7h` |
-| `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 12h` |
+| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟢 `open · 6h` |
+| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 6h` |
+| `apache/hertzbeat` | [\[bugfix\] Alarm group convergence must not resolve while members are still firing](https://github.com/apache/hertzbeat/pull/4316) | 🟣 `merged · 13h` |
+| `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟢 `open · 18h` |
 <!--ACTIVITY:END-->
 
 ### Stack

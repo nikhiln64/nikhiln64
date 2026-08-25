@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 3d` |
+| `open-telemetry/opentelemetry-java-instrumentation` | [Inject vertx-http-client trace context once to avoid a HeadersMultiMap data race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟢 `open · 4d` |
 | `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟣 `merged · 5d` |
 | `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 6d` |
-| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟣 `merged · 6d` |
+| `conductor-oss/conductor` | [fix: propagate CANCELED instead of FAILED from JOIN when a forked branch is canceled](https://github.com/conductor-oss/conductor/pull/1425) | 🟣 `merged · 7d` |
 <!--ACTIVITY:END-->
 
 ### Stack

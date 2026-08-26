@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `open-telemetry/opentelemetry-java-instrumentation` | [Inject Vert.x HTTP client trace context once to avoid a header race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟣 `merged · 15h` |
-| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 17h` |
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 17h` |
-| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 17h` |
+| `open-telemetry/opentelemetry-java-instrumentation` | [Inject Vert.x HTTP client trace context once to avoid a header race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟣 `merged · 22h` |
+| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 1d` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 1d` |
+| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 1d` |
 <!--ACTIVITY:END-->
 
 ### Stack

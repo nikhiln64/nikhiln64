@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `open-telemetry/opentelemetry-java-instrumentation` | [Inject Vert.x HTTP client trace context once to avoid a header race](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19547) | 🟣 `merged · 5d` |
-| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 5d` |
-| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟢 `open · 5d` |
-| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 5d` |
+| `apache/dolphinscheduler` | [\[Fix-18389\]\[DataX\] Read job definition from attached resource file when custom json is](https://github.com/apache/dolphinscheduler/pull/18434) | 🟣 `merged · 5h` |
+| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 9h` |
+| `openzipkin/zipkin` | [Bound the HTTP collector gzip decompression so a small request cannot exhaust the heap](https://github.com/openzipkin/zipkin/pull/3840) | 🟢 `open · 9h` |
+| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 9h` |
 <!--ACTIVITY:END-->
 
 ### Stack

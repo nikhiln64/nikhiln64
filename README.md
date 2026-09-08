@@ -12,10 +12,10 @@ A soft spot for well-designed state machines.
 <!--ACTIVITY:START-->
 | repo | contribution | status |
 |:---|:---|---:|
-| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 2h` |
-| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 2h` |
-| `Netflix/maestro` | [Fix flaky testBypassSignalDependenciesWithBlocking by waiting for async notify](https://github.com/Netflix/maestro/pull/227) | 🟢 `open · 2h` |
-| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 2h` |
+| `apache/pulsar` | [\[fix\]\[ml\] Prevent durable cursor reset from being silently discarded by a concurrent i](https://github.com/apache/pulsar/pull/26318) | 🟢 `open · 7h` |
+| `Netflix/maestro` | [Add webhook notification publisher for step/workflow status change events](https://github.com/Netflix/maestro/pull/228) | 🟢 `open · 7h` |
+| `Netflix/maestro` | [Fix flaky testBypassSignalDependenciesWithBlocking by waiting for async notify](https://github.com/Netflix/maestro/pull/227) | 🟢 `open · 7h` |
+| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🟢 `open · 7h` |
 <!--ACTIVITY:END-->
 
 ### Stack

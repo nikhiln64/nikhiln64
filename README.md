@@ -15,7 +15,7 @@ A soft spot for well-designed state machines.
 | `apache/pulsar` | [\[fix\]\[ml\] Prevent a durable cursor reset from being silently discarded by concurrent m](https://github.com/apache/pulsar/pull/26318) | 🔴 `closed · 19d` |
 | `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟣 `merged · 54d` |
 | `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟣 `merged · 58d` |
-| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🔴 `closed · 60d` |
+| `conductor-oss/conductor` | [fix: send status-notifier webhook body as UTF-8 so Content-Length matches the payload](https://github.com/conductor-oss/conductor/pull/1424) | 🔴 `closed · 61d` |
 <!--ACTIVITY:END-->
 
 ### Stack

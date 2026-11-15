@@ -14,7 +14,7 @@ A soft spot for well-designed state machines.
 |:---|:---|---:|
 | `apache/shenyu` | [fix: NPE in AbstractLogCollector.desensitizeShenyuRequestLog on null boxed Integer/Long](https://github.com/apache/shenyu/pull/6899) | 🟣 `merged · 2d` |
 | `apache/pulsar` | [\[fix\]\[ml\] Prevent a durable cursor reset from being silently discarded by concurrent m](https://github.com/apache/pulsar/pull/26318) | 🔴 `closed · 24d` |
-| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟣 `merged · 59d` |
+| `conductor-oss/conductor` | [Convert failedWorkflow input to a Map so nested references resolve](https://github.com/conductor-oss/conductor/pull/1292) | 🟣 `merged · 60d` |
 | `apolloconfig/apollo` | [feat(portal): support configurable OIDC username claim for user identity](https://github.com/apolloconfig/apollo/pull/5655) | 🟣 `merged · 63d` |
 <!--ACTIVITY:END-->
 
